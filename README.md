@@ -2,9 +2,6 @@
 
 A simple Bash script to list files and directories with optional tree format output.
 
-## Author
-**JxH** - v7_@hotmail.com
-
 ## Usage
 
 ```bash
